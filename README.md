@@ -27,5 +27,8 @@ Run the app on Android or iOS:
 Note: Run the code when the Mobile Phone is connected to the laptop with the USB Debugging is turned on.
 
 ![Dashboard](images/pic_1.png)
+![Activity Log](images/pic_2.png)
+![Calorie Tracker](images/pic_3.png)
+![Goals and Achievements](images/pic_4.png)
 
 
