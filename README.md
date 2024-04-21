@@ -30,6 +30,7 @@ Note: Run the code when the Mobile Phone is connected to the laptop with the USB
 ![Activity Log](images/pic_2.png)
 ![Calorie Tracker](images/pic_3.png)
 ![Goals and Achievements](images/pic_4.png)
+![Signup](images/pic_5.png)
 https://github.com/ChandraSekharGuptaTanguturi/FitnessTrackerApp/assets/167555291/86db5ae9-32da-44c9-9c31-b92d18e1298d
 
 
